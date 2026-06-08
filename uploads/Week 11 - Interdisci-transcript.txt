@@ -1,0 +1,392 @@
+SPEAKER 0
+Alright, let's get started, it's 5 minutes past the hour. So hello everyone. This is the last lecture of this unit. Thanks for coming in today. And I'm, before I start, I apologise for what happened last week, I was just too sick to get out of bed, I'm really sorry about that, but I'm here today. Um Right, it's, it almost feels surreal that, you know, we are at the end of the lecture series, um. It's gone by pretty fast, yeah. OK, so, yeah, I'll talk to you about the logistics for the rest of the um semester at the end, OK? Right, so. What's going on? Right, so. We are in week 11 today. Before the interruption last week, in week 9, we were talking about, uh, social consequences of conflict. In week 8, we started the whole discussion around the consequences of conflict. In week 8 we discussed economic consequences of conflict, and then in week 9 we started discussing social consequences of conflict, looking more at, uh, collective consequences such as, say, Um, uh, collective action, political attitudes, etc. Today we are gonna be continuing this discussion on social consequences but looking more at individual level, um, outcomes, OK, so things like, you know, I, I've been talking about this, uh, from the beginning of the lecture about, you know, health outcomes, education outcomes, labour market outcomes, employment outcomes, all of which are affected by exposure to conflict, and that's what we are gonna be talking about today, OK? Right. So, We are gonna start off with this really interesting work by Blackman and Anan, 2010. Anyone remembers Batman? We talked about Blackman in week one or two, where I said he has written this really great um review article called Civil War, um, uh, that, you know, that is the go to place in terms of academic work on conflict. Just yesterday, I was reading his book uh which came out a couple of years ago called Why We Fight. Fantastic book, um where he documents his own travel experiences to conflict areas, um, fascinating stuff. um, if anybody wants to borrow it, I'm happy to lend it to you. Um, I mean, really interesting stuff like he makes conflict so relatable. Uh, that you feel like, you know, you are actually there, like so many examples that usually we miss in the news and so much detail. So yeah, he's a political scientist, not technically an economist, but he's done amazing, good quality, um, quantitative work on conflict and its causes and consequences, OK? So, in their work that we are gonna be discussing today, Blackman and Anan look at. The effect of conflict on a very, very specific outcome, that's what happens to child soldiers. Now child soldiers is a major topic when it comes to rebel groups. I know from my own experience in Sri Lanka rebel groups recruited child soldiers forcibly. This is very different from a grown-up making a decision to go and fight. You know, a grown-up, let's say um if you're 25 years old, 30 years old, you are already responsible for your economic well-being. Um, you don't have food at the table, then you make a conscious decision to go and fight. That's, that's very different from, uh, rebels coming into your house and forcibly taking your children to be to be fighting on their behalf. OK? Children don't have agency. Children don't have a choice. They are still understanding the ways of the world. They don't make economic decisions. They are forcibly removed from the so-called safest place, their homes, and um forced into the battlefields, OK, so this is on the one hand, traumatic for those children. Instantly, but also in the long term these kids grow up to be adults and uh you know what kind of decision making do they do or are they able to do once they grow up uh because their decisions, their actions will shape the overall economy and society as well, OK? So considering the importance of this, you think there's more work on. Child soldiering, but honestly there's such little work, and that's partially because, This kind of data just does not exist. In Blackman and Annan's case, they overcome this data limitation because they use survey data. They actually go on to, uh, locations where conflicts happened earlier and they talk to people, so it's, it's a combination of primary and secondary data collection. Which helps them to overcome data restrictions. OK, so what do they do in principle? They look at the effect of military service on human capital later on in your life and labour market outcomes in Uganda and especially focusing on child soldiers. As I said, their focus or their approach is more primary. They conduct this survey called a war Affected youth survey. Which they conduct during the war in northern Uganda. Now, I hope all of you know what primary data means. Primary data means data that the researchers themselves went into the field to collect, OK? If you look at most of the work that we've been studying so far in. Um, this semester have used secondary data where the data is already compiled for the researcher to download and use in their analysis, right? We talked about spay data, like we talked about rainfall data, we talked about conflict outcomes data, all of this was typically. Collected and cleaned and designed by a third party. And researchers just have to click a link, download, and use it. But what Blackman and Anon do is they go to these locations where the conflict was ongoing. They go and randomly select people and they talk to people and they have survey questions and they get people to answer these questions, OK. And designing, the one of the reasons I chose this paper specifically was also to give you a sense of this experimental methodology. OK, I am not an experimental economist, experimental economics is a major field by itself, um, lots of, um, Recent work studying different dimensions of human behaviours, um, maybe some of you have, uh, taken part in experiments as well. So, in uh in their case, setting up a survey is very costly, not only in terms of financial resources, but also in terms of time commitments. You need, you have to get it right the first time, right? You have to design a questionnaire that is able to encompass. All the dimensions that you want to capture in one go, right? If you miss a question, it's very difficult to go back and survey the same people and Because they're talking about people and their perceptions, these perceptions may have changed from the first point, uh, point of time to the second point of time. So that really, um, you know, uh, is not good for the objectivity of your, uh, survey. So you have to get the survey designed properly. There are experts who design these surveys, who test it on people. You have multiple rounds of survey questionnaires, and then you have to train enumerators to actually go to the field. You have to train. Um, enumerators, how to ask a question, how to approach a person, uh, what's the attitude you should be having when you're talking to people, so you have to train them, and then the enumerators in the end actually have to go into the field and ask these questions, record these properly, um, and report back. OK, so it's a massive effort, it's very costly in terms of financial resources as well as time and other resources, OK? So it's, it's great if, uh, experimental or like, you know, this kind of survey work is. Done well, it really gives you a nice sense of what's actually going on on the ground as opposed to more aggregate data. So their survey, which was called the War Affected Youth Survey, um, was conducted during the war in northern Uganda, and it consisted of 741 males that were born between, um, 1975 and 1991 who were like, you know, that age group was specifically chosen because these would be like, you know, child soldiers. Now one of the limitations that I have to acknowledge with respect to survey data is, you know, you look at this number, 741 males. How representative is this of all child soldiers is a natural question that might arise, OK? It's a very small sample of people, and um can you make general statements about, Uh, any phenomenon with by sampling just a very small number of people is a valid question that can arise, and that's a natural limitation of this, uh, methodology, OK, um, and yeah, there's so much conversation about this, obviously you can't ask, you, you can't survey everyone, um, but there's a limit to how many people you can survey, and you know there's a cost and benefit. It's a trade-off. Why is this? Right, so after they collect data from these 741 people. They still need decide to come up with an identification strategy that will allow them to interpret this data, uh, these findings causally, and their identification strategy is pretty interesting because they say, Looking at how the rebels operated and talking to people on the ground, they propose that whether you were abducted to be a child soldier or not is very random. OK, rebels didn't target a particular house or a particular area, they just came in, collected whoever they could collect, and went away. OK, so in the same house, in the same village rather, there could be two neighbouring houses where the rebels came into the village, but because of some random. Occurrence, they just went to one house and collected the child from that house, but they didn't go to the neighbour's house, OK, because you're thinking of like, you know, a real war situation where rebels have to quickly come in and collect whoever they want to collect and run, right? And uh their objective is just to maximise the number of children they could collect, so they didn't target a specific child. OK, so the identification rests on the fact that who was abducted was essentially random. OK. They did not make decisions on who, what or where of forced abductions. That's what they write, OK. So they forcibly adopted forcibly and randomly abducted kids and they were put into um act as child soldiers in the rebel group. Now Based on this identifying assumption, they say we define treatment as anyone who was forcefully abducted. And they devise a control group consisting of kids of the same age, of the same area. Who are very similar to those who were abducted, but for some random reason were not abducted. OK? You can think of like within the same village, two houses, both have, let's say a 10 year old child each. House A has a 10-year-old child. House B has a 10-year-old child. These two houses are neighbouring houses in the same village. Rebels come in. They only abduct the 10-year-old child from house A, but they don't abduct the 10-year-old child from house B because of some random occurrence, OK. This randomness means that they didn't specifically target the child in house A. It could have been the child in house B. If luck had its, if um luck had its way, the child from house A would be saved. But for some reason he was abducted while the child from House B was left behind. OK, because of this randomness, they proposed that their estimates can be thought of as causal, and they treat the treatment group, as I said, are kids who were abducted, and they devise a control group from people within their sample of others who were very similar to the kids who were abducted but who for some reason were not abducted. OK? So in the control group, you have people from the same birth year and the same birthplace as the treated group. So they are similar on these dimensions, but they were just not abducted. OK. And so if these control and treatment groups are similar along all other dimensions, except The fact that the treatment group was abducted and control group was not, then. Whatever the differences in outcomes can be attributed to this one difference is their proposal. OK, and they conduct balance tests to confirm that this identifying assumption holds. And on top of the balance tests, as I said, because they are already on the ground, they actually have the ability to talk to people there, so they have interviews with you. Who who were not abducted or the elderly in the village to ask like what was going on, how come these kids were not abducted and how come these kids were abducted. So based on the qualitative discussions that they have, they provide more evidence to suggest that um you know, randomness in abductions was actually a thing. So once you have your treatment random like that, you know, once you've convinced your audience that the treatment is random, the identifying um uh identifying equation is rather simple, right? You have as why some outcome variable. labour market, education outcome variable, and then as a treatment, you have some a binary indicator of whether this individual was abducted or not, OK? Because they've established that abduction was random. They can treat these estimates as causal, OK? So, um, should I mention the subscript here is I, that means individual I. The analysis is at the individual level, OK? So outcome variable is each individual's labour market or education outcomes. The treatment variable is. T, which is a binary variable which takes the value of 1 if individual i was abducted, OK, and 0 if individual I was not abducted. They control for individual level characteristics such as birthplace, birth year, etc. to tease out any of that unobserved variation. OK? So the coefficient of interest here is tau, that's this, the coefficient on t. And as I said, this can be causally interpreted because we are relying on the randomness of treatment. OK. Right, so these are their findings, it's uh the way they present this is a little different from how economists would present them, but um these are just the coefficients and. Yes, standard errors, and then the tasks for statistical significance, and um these are just for comparison and um to identify the economic magnitude of the effect, but what matters for you is column one and the direction of each uh coefficient, OK? So the first set of variables they look at is educational and labour market outcomes, we'll go one by one. So they find that kids who are forcibly abducted, um. Have a negative, so forcibly abduct forcible abductions have a negative effect on the number of years of education that the kids get, OK, so if you were forced to become a child soldier, you receive less number of years of education, which makes sense because you're spending time fighting, you're really not going to school. And um kids, uh, these kids also have lower levels of literacy. The indicator for employment is statistically insignificant, so we can't really draw any inference from that. Um, they have much lower skill intensive work. They are more likely, they're less likely to work in. Professions that require high skills, that's what the negative coefficient here means. Um, and in terms of their wages, it's a negative effect, that means they earn lower than kids who were not abducted. OK, remember the reference group is kids who were not abducted, OK. So compared to, ah, kids in the same village, same location who were not abducted, abducted kids have lower levels of education, lower employment opportunities, and lower wages. It seems almost. Um, obvious, right, because they're spending a formative part of it, of their life, um. In the front like fighting for a cause that they have no understanding of, that they might not even believe, but just because they're forced to fight, they miss out on time at school, they come back, their peers have already progressed with their education and now they're falling behind, and because they lack the education, they are not able to get skilled employment and naturally then they have lower wages. Textbook story, very sad. Just imagine like what what really strikes me in this paper is the randomness, like my neighbour's son was not abducted, but my son was abducted. How random is that? Right? Just imagine living in a war zone, knowing that your child could have been saved but was not saved. It's very sad. I know in um. In Sri Lanka, child soldiering was a massive issue and so many families fled the war area because they feared for their kids. They feared the kids would be recruited. And the same for females because um females, so the, the rebel group in Sri Lanka introduced this concept of suicide bombing. Um, and females were recruited for as suicide bombers a lot because they could be disguised as pregnant women, and they'd be carrying the bomb on them. And the idea was that you pay them this massive amount of money that they could never in their lifetime earn, so they are, they come from such levels of poverty that, They believe, OK, even if I'm dead, my family will be better off because they are going to get so much money, OK, and I die for that. It's really sad to think about situations that, and this is very real. I, I remember growing up in Sri Lanka those days where pregnant ladies were looked at with so much suspicion because bombings in buses, bombings everywhere, um, was very common and almost all of them involved female suicide bombers dressed up as pregnant ladies. So like, you know, you pick a person to be your scapegoat, and my, it's very random that way. It's a very harsh reality. Right, so the, uh, the first set of variables that, uh, black men and, and Annan looked at were education and labour market outcomes. The second one they look at is like mental health outcomes. Uh, what do they find? They find that. Forcibly abducted kids have a very high level of psychological stress compared to their non-abducted peers, they're at the top quartile of distress. There is no statistically significant effect on them receiving social support, but there is an increase in their attitude in their hostile attitudes towards others. There is also no effect on them involving themselves in more physical fights. So what this means is that. It not only reduces their employment and earning potential later on in life, but it also makes them very bitter people, OK, they are under a lot of stress and they have very hostile attitudes towards society. Naturally, when you feel that, you know, the society is responsible for your. Uh, bad fortune in the, in your life, like you are poorer all because of the fault of the society, you naturally develop hostile attitudes towards the society, and that's what we see here. It's a very sad story and when you think of the fact that, Uh, behind each of these estimates is an individual who actually went through this and who actually reported these things. It becomes even more relatable and real, guys, like, I think that's the message that I want you to understand that, um, although these are just data points and we talk about coefficients and we talk about causality. The real understanding with respect to painful topics such as this is that there's people behind these measures, there's actual suffering, and that's where this knowledge and applying these to policies becomes even more important, OK? Right. So this is just a summary of what I just mentioned, you can read that in leisure. Any questions? OK. Right, so the next paper we look at is um a paper by my friend Olga Shimakkina from um who's looking at the conflict in Tajikistan. I have a co-authored paper with Olga on um, the conflict in Sri Lanka that's ongoing still, and Olga has done a lot of work on, Looking at these micro level outcomes of conflict. What she studies is the armed conflict in Tajikistan in 1992 to 1998, and she's interested in educational outcomes. She wants to see if being exposed to the conflict has some effect on kids' schooling outcomes, OK? And as you can imagine, understanding whether a particular child was affected by conflict. It's difficult, especially when conflict is widespread. She builds a really, uh, or rather she uses a really nice feature of the Tajik Living Standards survey, which reports whether an individual's household was damaged by the war. OK, so again, like. All of you are living in the war zone, some houses will get damaged, some houses will not get damaged. OK? So the measure of exposure to conflict that she uses is whether your house was affected by the war. Uh, why this is important is, you know, a house being hit by, uh, some kind of missile not only means that there's a war going on and it gives you fear, but it also means that your primary place of residence is destroyed, right? You no longer have a place to live in. Um, you, there's disruption to your actual daily life, right? It's different from some far away region getting hit by a missile. It's my own house that got blown up. I don't have a place to stay, I don't have a place to live, I don't have a place to sleep, OK? And then that directly affects, um, your outcomes. And the interesting thing is that she finds that she finds very different effects when it comes to girls and boys, OK? Girls who were in um areas that were exposed to the conflict were less likely to complete their education compared to girls who were in areas that were not um affected by conflict, and this just speaks to the whole misogyny literature uh talking about how um you know, opportunities for females, etc. OK? And the interesting thing is she checks whether there's any similar effect on boys. She doesn't find anything. OK, so that if uh when your house is destroyed, the consequence seems to be that girls are stopped from going to school, girls stop at home, look after your siblings, we have to rebuild the house, you just need to stay at home, whereas for boys, there's no effect on their schooling. OK, which again is something we can very much relate to, especially in developing economy context, OK? Because there's so much unpaid household labour that females provide. Right, so these are the findings from her paper. What does she find? Let's look at the girls' results, so she looks at girls, um, all school-aged girls, but she looks at different, um, Age brackets, so for example in column 4 you find uh girls between 7 and 15, that's a full pooled sample. Then in column 5 she splits it to age 7 to 11 and column 6, uh 12 to 15, sorry, 7 to 15, 7 to 11 and 12 to 15, right? Um, so this essentially is the pooled sample, uh, 5 and 6 are the split samples. And what does she find? Across the samples, she finds a negative coefficient of negative effect of your household dwelling being damaged on girls going to school. OK, that means if your house was damaged, girls receive less education. However, you don't see that for boys. There's no statistically significant effect on um household dwelling damage on boys' education. OK. Now this also brings me to one of the factors that I've wanted to highlight in my slides. You may have noticed that I included the faces or the photographs of authors. Um, when you're studying for your final exam, I want you to have a look at, All the photographs are included and how many males and how many females were present here, OK? Um, it's, it's, there's a structural issue within the economics literature that, you know, females face a very strong glass ceiling, OK, um, it's very hard to, uh. It's very hard to keep up with the demands of the profession, with the responsibilities of being a female, OK? Speaking from experience, it's um, I've, I've seen people who publish like, Crazy and like, you know, who don't need to do any. Child related work or um household related work, but then because they have so much more time to work on their research, they just get ahead and they get promoted, whereas it's very difficult for females to reach the same level of productivity while being a female. There is a um. It's heartening to note that there is some kind of acknowledgement of this restriction, and for example, when you're applying for things like promotions or grants, females are asked to write about career interruptions. Have you had a kid? Have you taken time off because you've had a kid, or do you have You know, commitments towards kids and all of that, it, it's a, a step in the right direction, but um it's not equal yet, so I'm, I'm by no way a feminist, but this is the reality in life and if any of you find yourselves in policymaking situations someday, think of this day, think of this message, right. All right. So, another paper on health outcomes now. So the first one we looked at was on labour market outcomes and psychological health outcomes. The second one, Olgat's paper was on education. This paper by Akresh Lichetti and Tirumurti look at exposure to war and health outcomes, especially children's health, OK. So what do they do? They focus on the conflict in Eritrea. Um, the war, um, the Eritrea-Ethiopia war in 1998 to 2000, and how did exposure to this war impact on children's health? Now what happens when there's a war is on the one hand, resources that you could have previously dedicated towards health obviously get diverted. Uh, there's an urgent need for military resources, so you divert resources from health, education, etc. to military, so naturally there's a decline in the amount of uh or the quality and the level of health services available to people in these countries. There's naturally then a decline in doctors, hospitals, medicine, etc. There's also the aid dimension, so sometimes you receive aid, but aid cannot get transported to war locations, uh, so these kids don't receive vaccines, they don't receive proper food that way as well. So a conflict is essentially really bad for health outcomes, it restricts people's access to health. Services it discourages investments in health infrastructure. OK, so naturally you would expect some effect of conflict on on health outcomes. Now what they do is they look at household survey data, so they don't do the survey. There are companies and governments that do household surveys. They use the data from these surveys and the outcome variable they use is. There is a standard health indicator, that's the height for age, OK, for each age, there's an ideal, there's an ideal height that you should be achieving. If you are malnourished, you don't reach that height. OK? So there's a height to age, height for age indicator. If you're shorter or taller than that, then that's a deviation. So that's the outcome variable that they use as a health indicator, OK? Now in their case, they observed that kids who were exposed to the war have lower height for age, so they are shorter, and the technical term for this is stunting. Stunting means that you've you've been, um, you've not received sufficient nutrition. You've been malnourished, which means, which in turn ah made you achieve a lower height than is ideal for your age, OK? And interestingly, they find this effect for both girls and boys. So, um, again, there are. Identification is rather simple. They just look at. Kids who lived in war regions. And match these kids with their height for age scores, include control variables and fixed effects to see if there's an effect of or exposure on height. OK, so in columns one and two, they look at, Any kid who lived in the war period, they could have been born before the war or during the war, so as long as you were alive at any point during the war, you capture that. So columns 1 and 2 give pooled estimates, and you find that overall there's a decline in height for age. That means kids who were exposed to the war are shorter, they're stunted, OK. In columns 3 and 4, they try to distinguish between kids who were born before the war and kids who were born during the war, OK, to see if there's some differential effect. And they find that kids who look at this estimates, so for kids who were born during the war, the negative effect is -0.04. I mean the effect is -0.04, whereas for kids who were born before the war, the effect is -0.3. So kids who were born during the war are slightly more disadvantaged. They are slightly more stunted. OK, kids who were born before the war probably spent some time acquiring nourishment, but kids who were born during the war were born into the war and they were born into a status of disadvantage in terms of nourishment, OK? And in columns 5 and 6, they look at exposure to the war based on how many years of your life have you been exposed, how many months of your life rather, have you been exposed to the war. That's what the months of war exposure variable means, and the coefficient is negative, which means if you've been exposed to more exposed to war for more months, you are likely to be, uh, you, you're likely to have a lower height. OK? The negative question. Higher the exposure, lower the height, OK? So across the three specifications, they show that being exposed to conflict reduces your height for age, makes you stunted, and why is that? Because you receive less nourishment. All right. I believe this is the last paper we are discussing for today, then we talk about some other stuff. OK. So I think we've spoken a little bit about Rona and Kania and Thig previously in this unit. These are people who've done a lot of work on conflict, um, and in, in with an economics perspective. So in this paper by Kutinia, Petrenko, Rona, and Thurig, they look at. The legacy of conflict from an asylum seeker's perspective. OK, this is again a very big topic related to conflict, you know, in Australia here we're talking so much about refugees, and where do refugees come from? They come from war zones. There's war in their home country, they need to get out. They are welcomed into other countries as refugees, so asylum seekers are a form of refugees, right? So Switzerland is famous for giving asylum to people who are fleeing war zones. These people study the behaviour of asylum seekers in Switzerland, especially with respect to crime. And their motivation comes from the fact that there's generally a negative attitude towards asylum seekers within the receiving country. In Australia we see the same. There's like, you know, very harsh attitudes towards refugees and asylum seekers, and they, uh the focus of this paper, especially on this statement that migrants commit so much crime, like refugees commit so much crime. Right, and, uh, you know, going into a refuge area is taboo because these areas are full of criminals. They try to understand whether that's true, and if that's true, it's important that we recognise that and help these people pro um enact policies that can help them change their behaviours, OK? So instead of making like vague statements, we need to document it objectively, and that's what they do, OK, so. On the one hand, they are looking at the criminal behaviours of asylum seekers. And it's interesting because they are looking at it at in a setting that where there is no ongoing war, so in Switzerland there is no ongoing war, right? So they're essentially looking at a spillover effect of a conflicts happening somewhere else on the host country who's welcoming asylum seekers. So it's a bit of a different setting from what we've been studying all this time because we've been looking at uh consequences of conflict in locations where conflict happened. OK? But in this paper, we are looking at conflicts, consequences in locations where the conflict does not happen, OK? So essentially, we are looking at spillover effects. Now, I want to make a point here. You might wonder like why is she's choosing these particular papers. Each of these papers has been chosen carefully because I want you to look at the multiple dimensions of conflict, OK? I looked at political outcomes. We looked at things like trust, etc. last week, and Today I want to look at the different um health and other social individual level social outcomes, and now I want to look at the spillover effects. OK, so there's there's a reason why each of these papers exist. They might not connect with each other, but each of them exposes you to a different dimension of the consequences of conflict, OK? So essentially to summarise, Kaina Atoll. look at consequences of conflict with a spillover dimension. They look at asylum seekers who are fleeing their home countries because of conflict and coming to come into a host country. The host country welcomes them, they settle down, and then how do they behave. Are they more likely to commit crime? OK, and as I said, understanding this is important not to discriminate against these people, but if this is a fact, that then it needs to be addressed with proper policies, OK? You can't make policies based on sentiments or just your feelings. You have to make um evidence-based policies, and this is providing that evidence. Right. So the question is, does past exposure to conflict in your origin country make your, make migrants more violent prone in the host country? OK? It's a very um specific question, but a very important question. Now looking at this research question, you, you already know that there's problems related to causal identification just uh by comparing like you know what are you even gonna compare? So you have Switzerland that welcomes asylum seekers are they more likely to commit crime? How are you going to causally identify this, these people. Within this group of people there might be so many different types of people that might be committing crime, that might not be committing crime, so you can't just compare them. And then these people come from different countries with conflicts, so um asylum seekers from Country A might be very different from asylum seekers in Country B, but both of these groups are now coming to Switzerland. You can't just compare them. Right? And the host country itself might might be um attracted to certain kinds of asylum seekers, right? So if you are in country A that's going through conflict, um, and you are someone who's looking for asylum and you have a choice between going to Switzerland and going to Italy, right, there might be certain reasons that might, um, that might make Switzerland more appealing to you compared to Italy. OK, so you might have made a conscious choice to come to Switzerland hoping you can uh earn a buck through crime. Right? How can you rule out that this didn't happen? There's a massive selection problem here. The selection problem comes from multiple sources, some of which is written here, so I repeat. One, Characteristics of the host country can determine what kind of people are attracted there, so, uh, asylum seekers might be able to compare Italy versus Switzerland and might a certain kind of people might decide to come to Switzerland, where a certain kind of people might decide to go to Italy. So there's selection on which host country they land in Second. The kind of people that do decide to migrate, that do decide to look for asylum, might be very different from the people who stay back. OK, there are characteristics so you can't just compare those who just come in because this might, the fact that they did decide to come in might reflect something about their underlying personalities. And finally, uh, existing characteristics of the host country can determine, like, you know, um, how welcoming are you towards your um uh asylum seekers. Even within the country where you locate yourself might decide how welcoming the host country is to you, right? So because of all these reasons you can't just um uh look at asylum seeker behaviour and decide that they cause more or less crime. So what do they do? They go down to group level, OK? They say, OK, so we can't just do random comparisons in here. We have to identify, we have to tease out as much of the unobserved variation as possible and develop clean, uh, control and treatment groups, OK? What do they do? They look at, let's say in Switzerland there are people who moved from Ethiopia, OK? They say, and also there are people who moved from Eritrea, OK. There are asylum seekers who came to Switzerland from Ethiopia as well as from Eritrea. You can't compare these two people because they are inherently different. So what they're saying is, why don't we just look at, look at. Among all people who came from Eritrea. How did the exposure to the war decide their criminal behaviour once they came in? Among people who came in from Eritrea, there'll be people who were born before the war, people who were born after the war. OK, so we compare these two groups because then we are fixing the nationality, so we are fixing a lot of the unobserved variation, and then they do the same for people who came in from Ethiopia. Among the asylum seekers who came to Switzerland from Ethiopia, we look at people who were born before the war and people who were born after the war and compare their criminal behaviours based on the assumption that your exposure to the war is different based on when you were born. It's a cohort level comparison essentially looking at within within cohorts, uh sorry, between cohorts. So you have people who came from um Eritrea. Within that group you have people who were born before the conflict and after the conflict. So you compare that with people who came from, um, you likewise you have another group of people who came from Ethiopia and within that group you have people who were born before the war and after the war. OK, and they conduct balance tests to um confirm that these groups are similar along all other dimensions except for their exposure to the war. OK? So, This is the identification strategy. Uh, the outcome variable CP is the propensity for crime, crime, or you can think of it as a crime rate for a group of people from nationality N and age A who are living in Switzerland in year T. The key treatment they want to understand is whether exposure to conflict as a child has an impact on your criminal behaviour. So with a kid, ah, that's what they try to capture. This is a variable if you, if you belong to a if this was a cohort of people who belong who was exposed to conflict in your home country before you were 12 years old, OK, as children you were exposed to conflict in the home country. Then, ah, variable expo is people who are exposed to conflict in the home country from 13 years plus, OK, so the kid variable identifies people who were exposed to conflict as kids in your home country. The expo variable identifies, ah, individuals who were exposed to home country conflict as grown-ups, OK. So what do they find? Looking at this um table, you can immediately see that this is a journal which does not report uh stars for statistical significance, so you have to do the mental math yourself. They find that exposure to conflict as a child. Has a huge impact on future violence behaviour, especially for men. Let's go through their table. So in panel A they look at men. In column one, they look at all kinds of conflict exposure. They find that kids, so if you divide 1.096 by 0.046, you, you can see that it's a little bit above 2, so this is a statistically significant result. You find that kids who are exposed to home country conflict have a higher propensity for committing crime. That's the outcome variable. And then they, um, you don't really need to worry about columns 23 and 4. They look at different sample comparisons and different intensity of exposure. Just look at column 1, that's enough. In column 1, they find that men who were kids during the war in their home country are more likely to commit crime later on in their life. However, if you look at panel B, column 1. Uh, for women, the coefficient is 0.026. You divide that by 0.117, it's less than 2, so this effect is not statistically significant. So for women, there is no statistically significant effect of being exposed to exposed to home country conflict as a child on later life criminal behaviours, OK? So there's a nice heterogeneity by gender when you look at um exposure to conflict and later life criminal behaviours. OK. Any questions? Right So, that's all the content I have for you for this unit, but what I want to say is that What we have discussed in terms of the consequences of conflict here is just a drop in the ocean, right? There's so much work looking at different contexts, different outcome variables, different um different definitions of exposure to conflict, uh, spillovers, direct effect, temporal effects, long-term effects, short-term effects. There's so much work that is just not. Possible to capture within an 11-week course, OK? I've just tried to give you a taste of what's out there, hopefully, to stimulate your interest. So if you're interested, you can look at these papers, look at their citations, and read a little bit more. And if you want to read more, you're always welcome to drop me an email and I'm happy to, you know, point you in the right direction with respect to references. But what I want you to know is, A, there's so much work out there, and B, consequences of conflict are extremely wide ranging. They are never just economic or never just social. There always is overlap. There's always economic and social consequences of conflict, and this can be spillover effects and this can happen over the long-term or short-term, but they do exist and it's important that we understand this because, as I said, The whole point of understanding this is to be able to come up with someday. Evidence-based policies that can make these people's lives better with proper understanding of the causes of conflict and proper understanding of the aggravating consequences of conflict. You are able to, when a conflict erupts, you are able to understand. Um, OK, so this is what drove this conflict, and these, these groups of people might get affected. We know that girls are more likely to get affected when it comes to education. Uh, men are more likely to be more crime prone later on in their life, and these are the, um, polic, uh, these are the different dimensions we should be targeting with policy, OK? So if ever you find yourself wearing a policymaker's hat. I hope you think about this content and my comments, OK? Right So that brings us to the end of content, and now I want to talk to you a little bit about the final exam. However, before I go there, I want to take a moment and ask, of all the lectures that I've done so far, if there is any component that you feel was that you have trouble understanding. That you would like me to review for you right now or re-explain, I'm happy to do that. Take a couple of minutes, have a look at the different modules we have on Canvas. If there's anything you want me to re-explain, this is the time. I mean if you guys understood everything perfectly, that's, that's great. I'm very happy, but anything. I think one of the benefits of this unit is the continuous assessments, so you are always on top of things. I think that's, that's beautiful. It's a pain for the markers because they need to be marking, and I'm very grateful for their consistent work, but uh for the students this is really helpful. You have any questions? No? OK. Right, OK, so if you ever have any questions, feel free to email me and, you know, I'll set up a couple of hours of um consultation before the exam. um, yeah, I'll talk about that later on. OK, so now, quickly on the format of the final exam. I have uploaded a PDF version of a mock exam paper with no questions um into the week 11 module, OK? Just familiarise yourself. It's very similar to your um, Tutorial exam papers, it's just that there's a big cover page, it's it being a final exam, it's centrally administered, there's a cover page. Please make sure you write your name and your uh seat number and your ID number very clearly because what's gonna happen is, once you have, uh, once you collect the exams, these are gonna be scanned and uploaded to grade. to mark, so the markers will not be marking your physical papers, they'll be marking on a computer the scanned copies, OK. So how the scanning works is they match based on the ID and the name that you write on the first page of your paper. So if, if there's trouble with understanding that, you know, we are going to face a bit of trouble in. Matching your paper to your name, OK? But the good thing is all the marking is anonymized. Once we do the matching, the markers will not be able to see whose paper they are marking, OK? So marking will still be anonymized and it's actually better than physical papers being marked, OK? So this is a, we are working in the future with respect to grade scope marking, OK? So there is a mock exam paper, have a look at it. Um. Yes. questions Yes, I'm getting to that in this slide. Yeah, so what you have to do in the exam is there's gonna be two questions very similar to your tutorial exam questions, OK? Um, each question is 15 marks each, and you should be coming to this, um, you know, you should be preparing to write two tutorial exam, uh, answers, 2 roughly 500 word answers, OK? That's it, just 2 questions, 1 hour paper. One hour and then you get 10 minutes to read. I don't know what you're gonna be reading for 10 minutes because it's a very short paper, uh, but yeah, that's the standard, OK? The important thing is this is a restricted open book exam, that means you can bring 1 A4 sheet, uh, worth of notes, OK? This is double sided. OK? So 10 A4 sheet, you can bring into the exam, where you can make notes on both sides, OK? No devices are permitted and no devices are required, required. Um, you don't need a calculator or anything of that sort. So there will be two questions, each of, uh, equal value. Write 500 words math. There's space provided, you, you know, just like your tutorial exam, there's a, a rectangle that you write within. Don't write outside it because that area doesn't get scanned. Write within. And if you run out of space, there's gonna be a couple of blank pages towards the end. OK, if you run out of space, you write, please look at the um see additional page, and then you go there, put the question number and write. All the exam pages will get scanned. All of that will be marked. OK? Right. Easy peasy. I think in most subjects you do grade scope exams like this, right? So you're pretty much familiar with this. So the first time we were running this, uh, there's a lot of explanation because the unit was run as one core unit and 3 streams within it, and so each stream had its different questions and there was lots of technicalities in the paper. It was like, you know, very high level. Right, so what's gonna be tested? I think everybody wants to know this, right. So, let's go to the Let's go to canvas. As I said, the good thing with this unit is I've already tested you in most of these areas that we um. Studied in class. So what you will definitely need to study is all the consequences of conflict lectures, OK? Because I have not tested this much, at least. So you will need to work on week 8, week 9, and week 11 content. Up to today, you will need to study. So there's 3 weeks there. Week 9, sorry, week 89, and 11. The other bit that you have to work on is this, week 4. OK. Week 4 Week 8, week 9, and week 11. OK. This that like mean like not obviously I'm too kind, yeah. No, honestly, it's because you, I've tested you guys, yes. Whatever is in the lecture slides is sufficient. You don't need to deeply read the research papers. Of course if you're interested, go ahead, but for the purpose of the exam, whatever is in the lecture slides is sufficient. OK. OK, right. So this is a sample question, OK? Remember week 11 assignment. Week 11. I gave you a scenario and asked you to apply it, right? I didn't just tell you discuss Abadi and Gia Gadia Sabal, right? I told you, oh there's a scenario like this and they're interested in this method. Can you explain to them how you're gonna apply that? That's gonna be how the final example. Questions will be structured. OK. You don't, I'm not gonna ask you to write, oh, explain to me what McGurk and Burke said, OK? I'm gonna give you a scenario. You have to decide which papers this scenario relates to. And answer. I think the writing time, the sorry, the reading time you can really use to structure um the answers in your head because it's, there's gonna be some thinking involved. It's not like, you know, you can memorise a paper and come and uh just blurt it out on the paper. OK, you need to apply. There'll be two scenarios that you're gonna apply to the academic literature, and guys, please give me a proper reference. Like, you don't need to memorise the reference, but you know, give me mention names of academic papers, right? If it's McW and Burke, write that, OK? Don't just write somebody did some research, you know, you'd be surprised what I've seen in final exams. No reference list is required, but in inex references are required, OK? Right, so here what I've done is I've like given you the question and I've told you what kind of things are expected in the answers. So the question is, policymaker of Country ABC says that, uh, climate doesn't have an impact on how people engage in conflict. Evaluate this statement based on existing academic evidence on conflict using at least 3 related articles, OK? So the first thing is you should be talking about at least 3 related articles. And then you talk about what do these papers say, how do they causally identify the effect of climate on conflict, and do these evaluations and say, do you agree with this statement or not. OK, Easy. For sure, this is not the hardest student you've taken in in uni, for sure. I hope it's the most interesting, but it's definitely not the hardest. Right, so, last bit of logistics. This is our last lecture. There will be no lectures in weeks 12 and 13. Weeks 12 and 13 are for you to work on your media project. Week 11 tutorial assignment marks are now complete. I will release them very soon, OK? There will be a feedback tutorial in week 12 that you're welcome to go and get your feedback on. There will be no tutorial in week 13. Media project is due on twenty-ninth May. Appreciate if you could just submit on that day because you've had a lot of time. Now, the interesting thing is, there's a whole new module on Canvas on communication. I hope all of you saw it. The communication module, this is a fantastic resource, um, so my colleague Russell Todd went through a lot of pain to get this done, and they're amazing. Please, um, use this, uh, when you're working on your communication project, and the communication module is not specific to this unit, it's a very generic but very interesting, uh, module. Use it for the, this unit as well as your daily communication tasks, OK? Now, one of the most important things for me is that the unit of study survey is opening on Monday. The one reason I don't like this unit's lectures closing on week 11 is the USS opens in week 12 and students forget. OK? So please be kind enough to give your feedback on this unit, um, because this unit has evolved so much from where I started. Um, based on student feedback, OK? I've received so much of helpful feedback from students and the unit is in a much better place today, and if you enjoyed this unit and if you want your future students at UC to enjoy this unit, please give me your feedback. I really appreciate it and I think of it as a personal favour that you're doing to me. Uh, also, for the tutors, if you've had a positive, negative experience with the tutors, please do record it because for most of the tutors, you know, this goes into their, um, employment opportunities, etc. So if you had, you know, some good Interaction with them, please record it so you know it's, it's helpful for them as well, OK? And if any of you are kind enough to send me an email with thoughts, comments, questions, I really value that. I just had a student come in today and I, I really appreciated that. OK, so thank you for a great semester, guys. I hope you enjoyed learning as much as I enjoyed teaching. It was a great class, although we did, we had like what, uh, 10% of students attending. The 10% that did attend did a really. Uh, like, you know, it was a really engaging, um, series of lectures, so thank you so much. Um, if you have any questions, I'm happy to take them, otherwise we can wrap up. Thank you. Thank you so much.
+
+SPEAKER 2
+because we are uh about to review, so will there
+
+SPEAKER 3
+be more uh consulting.
+
+SPEAKER 0
+Right, good point. I'll make an announcement about exam consultation. Uh, there will be one exam consultation session in the week before SUAC, in person, in my office. I will, the rest of the exam consultation will need to be online because I'm travelling to Canberra for a conference in Stuac a week. So, uh, but I will make sure that you have lots of consultation hours, whether in person or online. Yeah. Thank you. In all this semester, one student came for consultation. I mean, that probably means that you understood everything, that's perfect. Thanks guys I really appreciate it. Thank you, thank you.
+
+SPEAKER 1
+I was wondering. tied to like specific academic evidence for the. Or would you want it linked to the concepts that you?
+
+SPEAKER 2
+Sometimes Always find conflicts um studied in the academic literature,
+
+SPEAKER 0
+right, so there could be some conflict that you are
+
+SPEAKER 4
+studying but you don't have any specific references to this,
+
+SPEAKER 0
+so you're, you're free to use general references you can say like for example in Ethiopia and Eritrea X and
+
+SPEAKER 4
+X Y Z found this and it could be the
+
+SPEAKER 1
+same case obviously. And did you want us to to like lecture like grade grievance like you're free to like so thank you
+
+SPEAKER 4
+when you're looking when you're talking about the causes and
+
+SPEAKER 0
+consequences you're free to refer to as required in your
+
+SPEAKER 4
+setting yeah yeah.
+
+SPEAKER 1
+Yeah. Also wondering like would you want us to like find any like econometric data that is not required this especially
+
+SPEAKER 0
+because I said uh this is for a layos, so any equations, any data, I mean, look, if you want to um you know, draw a graph, that's fine, but no major econometric analysis, that's not required.
+
+SPEAKER 1
+OK, and then to show that like, I know that you made an emphasis on it being an ongoing. I'm thinking of the US and Iran conflict. Do you want us to showcase that like it's been going on for like a long time?
+
+SPEAKER 4
+It doesn't need to be the reason I made it ongoing students like ancient conflicts and then you know you
+
+SPEAKER 0
+don't really get a sense that. Yeah, I wanted to make it relevant. That's right. So like there was a question on it also, like,
+
+SPEAKER 2
+is it OK if we use a conflict that just
+
+SPEAKER 0
+finished? That's fine.
+
+SPEAKER 4
+That's completely fine.
+
+SPEAKER 1
+And then also like if we're looking at like oil price shocks and stuff like that, can you tie that to like the Australian impact like on like monetarily like cos I know that there's like a lot of articles out there that talk about the US impact, like would you think it's more relevant to talk about like Australian data?
+
+SPEAKER 4
+You can, there's nothing stopping you, but like it's, I
+
+SPEAKER 0
+haven't really mentioned uh consequences from which perspective it's it's
+
+SPEAKER 4
+fine, just general.
+
+SPEAKER 5
+Thank you.
+
+SPEAKER 2
+Another question on the media. To what extent do we include like the concepts from the drivers like for example, talking about we and when we talk about other drivers that we've discussed or like something that fits the scenario.
+
+SPEAKER 4
+Yes, so there's flexibility on what you can include here as long as you demonstrate that you have a sufficient understanding of these concepts, that's fine.
+
+SPEAKER 0
+You don't have to, uh, or because we talked about
+
+SPEAKER 4
+this concept, we have to refer it to this conflict. There's nothing like that.
+
+SPEAKER 0
+Each conflict is different, so you can choose which drivers
+
+SPEAKER 4
+you want to focus on and yes, like if I
+
+SPEAKER 2
+just focus on the ingredients and not talk about like oil price shocks and like.
+
+SPEAKER 4
+I do mention though about causes and consequences, so greed
+
+SPEAKER 0
+and grievance was more like a Macro view of uh
+
+SPEAKER 4
+conflict and then you, if you can go into a
+
+SPEAKER 0
+little bit about specific causes of this conflict like instead of saying this is greed driven, you can say why do you why do you say that like what are like it could be because uh food prices were high
+
+SPEAKER 4
+or something like that, right? So you can be more specific, uh, but you don't
+
+SPEAKER 0
+have to link to all the drivers because in all
+
+SPEAKER 4
+conflicts you don't see all the drivers and because it's
+
+SPEAKER 2
+like a textile would talk, do you think like. In my PowerPoint so having text and stuff like using pictures to like support.
+
+SPEAKER 0
+Perfectly fine as long as you appear on the screen
+
+SPEAKER 4
+yeah because sometimes you know with AI we don't know
+
+SPEAKER 0
+whether it's the student talking or not we need to
+
+SPEAKER 4
+be you're free to include any animation or.
+
+SPEAKER 0
+On your side sounds good. Sorry, one more question like I'm structuring in the sense
+
+SPEAKER 2
+that I'll talk about what is conflict because we've like gone from like each one defining what it is um to give like an audience and then going into like the context and then drivers consequences and that sounds good and um just the main mask. Even though it's like domestic and that's fine because um
+
+SPEAKER 0
+actually we've all been always been talking about domestic conflict
+
+SPEAKER 2
+so that's fine that's fine but if you want to
+
+SPEAKER 4
+work on international health that's also fine but yeah whatever
+
+SPEAKER 0
+that works.
+
+SPEAKER 2
+Thank you. OK, thank you so much. Sorry, I just want, sorry, um, I'm not able to like get a good balance between like. Like the terms we're using in class, also explaining it in like simple. Like that is a challenge, but. To what extent I'm supposed to remove the keywords.
+
+SPEAKER 0
+So I wouldn't expect you to talk about instrumental variables.
+
+SPEAKER 2
+Yeah, but like what about definition? Definition is fine. OK, if I talk about contested in compatibility, like do I explain what it is.
+
+SPEAKER 0
+Like, for example, you don't need to use uh the
+
+SPEAKER 4
+definition of uh agree. You don't need to use that, right?
+
+SPEAKER 0
+That's just uh, understanding, right? That's what I thought. So you, you can just use uh because they're contesting
+
+SPEAKER 4
+over resources, something like that.
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 3
+Hi, uh, I guess I also have a, you know, the question about the media project, uh, because I The comment is so interesting and there are like so many things that could be included. So I feel like because we are, uh, in the time is short because we just have 5 minutes for recording, but like it's about, um, we are like our imagined, uh, audience should be like, uh, the, you know, the public or or yeah, the listeners, yeah, so I'm thinking to maybe to, uh, express it in a way that I feel like more creative to. To kind of, you know, express it better. So I'm thinking, do you have like in person or online consultation time next week because I couldn't do it on Friday. I have.
+
+SPEAKER 4
+Uh, can you drop me an email so we can
+
+SPEAKER 0
+organise, uh, uh, um, I'll be in on Tuesday.
+
+SPEAKER 4
+Yeah, uh, I need to check my calendar though.
+
+SPEAKER 0
+Yeah, so just drop me an email and then if you can't do on Tuesday, we'll do another day on
+
+SPEAKER 3
+that. Yeah, thank you so much. I'll just show you kind of like a demo for it just to say if it works.
+
+SPEAKER 0
+I don't know if uh. Look, it's like this, so you understand that I have to be fair to all the students.
+
+SPEAKER 3
+Oh yeah, yeah, definitely. It's just because I want to express it in a like a kind of creative way. So I just want to make sure that you feel like this way could be like a great idea because I'm also thinking that creative way could also be used like, uh, in a step further than just a me. Maybe it could like have other ways for using it, so I feel like yeah.
+
+SPEAKER 4
+Thank you. This is a very minuscule question. Um, I was just wondering because I know it's gonna be filmed on Zoom, so there's like no after post editing. Um, we are allowed to have like presentations in the background, just to, yeah, you can do that. OK, you can be creative with that. OK, cool. OK. Thank you much. was in No, not you. OK.
+
+SPEAKER 6
+Someone else. I'm sorry because today I have a busy work and uh I can't, I can't do them. That's fine. Uh, and, uh, my video project is related to the Indian Maoist insurgency. But I I meet one problem and I want to ask that. Yes, OK, thank you. Uh, I'm, I'm sorry, I only have the first page and then maybe this is about uh 20 page and uh I want. I want with a stream and I wanna finish my presentation with a stream no with a video um and uh my content is related to PPT and uh 20 page and uh maybe any page we are. Spent about uh The time and the 22nd.
+
+SPEAKER 4
+Can I tell you one thing Um, See if you can finish 20 slides in 5 minutes. 20 slide you have 5 minutes.
+
+SPEAKER 0
+OK, because, uh, um, uh, you don't want to rush, right, because you get marks for communication as well, it's not just a.
+
+SPEAKER 4
+So think about whether you really need. 20 slide. Do you, do you need all those 20? Can you shrink them?
+
+SPEAKER 0
+Just, just think. I'm asking you to think because I think that if
+
+SPEAKER 6
+I, if I If I, if I finish the content, if I finish the one more. 6 Um, because the, you know that the Indian Maoist uh have to, have to uprising. The first uprising occurring was occurring in the last, the 60th of last century. It was strongly supported by People's Republic of China at that time. media, yeah, but, um, but is that what you, what
+
+SPEAKER 0
+you want to be focusing on? Do you want to talk about the more recent? Because we, I asked you to focus on an ongoing
+
+SPEAKER 2
+conflict.
+
+SPEAKER 6
+Because I am a Maoist.
+
+SPEAKER 0
+That's fine. You can be a Maoist or the government, but, um, just think, because first thing is you get equal marks for content and equal marks for communication.
+
+SPEAKER 6
+And I wanna ask her that why I show display that I, I show display and uh. Show the relationship of the UCDP definition of counter or
+
+SPEAKER 4
+You, look, we, you, you don't need to be technical,
+
+SPEAKER 0
+OK? Because we're talking to a lay audience, so don't need, don't be technical.
+
+SPEAKER 7
+The driver and, uh, Only drywall and the consequence causes
+
+SPEAKER 0
+and consequences, yeah, OK, is that OK? OK.
+
+SPEAKER 7
+Does that help, I have two times. I want to solve two times in the 1st, 4 page and uh I will display one. One peak, one peak of the people's. of People's Daily newspaper in 1967. This is related to the The People's Republic of China support the Indian Maoist upgrading, uh, under the title of, of the of the under the title is uh the Spring of the NASA.
+
+SPEAKER 0
+Nice. That's very interesting. You can, you can show this, but I, what I'm saying is overall, um, make your presentation interesting for sure and also manage the time and I will, and we
+
+SPEAKER 7
+are seeing that, and we are seeing the article of the Chairman Mao, and uh, yes, please do that. They have one famous word, no famous sentence, um, who are our friend, who are our enemy. This is the primary proponent of the revolution.
+
+SPEAKER 0
+OK, nice. Please do share with me. Thank you so much.
+
+SPEAKER 4
+Bye bye.
+
+SPEAKER 0
+Hi, you guys entered at the end, yes, um, I've
+
+SPEAKER 8
+emailed you, yeah, and my question was, cause I'm doing the, um, Russia-Ukraine war, and then I have two questions where it talks a bit like you how you have to provide like background information to what sort of depth do you want us to go into?
+
+SPEAKER 4
+Look, there's only 5 minutes, yeah, OK, so like, Considering
+
+SPEAKER 0
+that you have lots of other things to talk about as well, just manage your time accordingly, you don't need to be too much in depth, but some sense of what's driving this conflict and where in the world is this taking place, maybe you can include a map or something, uh, something like that, and um.
+
+SPEAKER 8
+Do you want us to talk about the driver from like an economic perspective or technical, so like, of course
+
+SPEAKER 0
+I want you to focus on economics, but I don't want you to focus on econometrics.
+
+SPEAKER 4
+Like I don't want to see any equations or anything
+
+SPEAKER 0
+of that. OK, OK, because it's a lay audience, remember your audience,
+
+SPEAKER 8
+yep, OK, but of course whatever you mentioned should have
+
+SPEAKER 0
+economic. Yes, um, I started doing research I talk about Uh, you actually did some analysis, uh, not analysis, but I'm
+
+SPEAKER 8
+just reading a like organic paper at the moment. OK, so basically what I found from what they're saying is that the cause of the conflict is like sort of like historical at this moment, so the. Talking about how the Russia is claiming that Ukraine is a part of Russia and then Ukraine's mention those things,
+
+SPEAKER 0
+so those are different views that are being expressed and um I think what I would, if I were you, what I would do is I would gather all this information and try to see what can fit into. And what is the most important piece that need to go into 5 minutes with an economic perspective.
+
+SPEAKER 8
+Oh, OK, OK, yeah, here's my issue, it's just like, well I haven't found like really like, Contradict views, it's just what if I found like, people are interpreting the driver of the conflict differently, which one should I go with, um, that's why you need to make a judgement.
+
+SPEAKER 0
+Um, which one? More closely resonates with the economic drivers of conflict that we've discussed in class, what's the perspective you want to share with the lay audience, yeah, cos like you know
+
+SPEAKER 8
+how you said you want us to link with the method that we learned in class, right?
+
+SPEAKER 0
+Not method, but the content, yeah, the content, um, what
+
+SPEAKER 8
+my understanding is that all of this, like the content that we've learned is trying to help us to, I wouldn't say critically, but like trying to help us to justify whether if that's a, Um, I wouldn't say like truthful, but like a real sort of driver.
+
+SPEAKER 0
+I wouldn't use the word justify, yeah, yeah, I wouldn't
+
+SPEAKER 8
+use it, but like I'm trying to describe it we are trying to understand the true causes of, yeah, yeah, yeah, that's that's what I mean by that, and then, um, in this case, if I'm like trying to explain what from my perspective, The driver is, um, my understanding is that I'm using the content, the knowledge that I've learned during the class to say how, whether if I agree with what particular paper, say the driver is or not.
+
+SPEAKER 0
+Don't, don't take, uh, don't, um, present a value judgement, be very objective. Uh, if you want to cite a paper and say these people say like this, that's also fine. Um, you, I, I don't want you to bring in your sentiments. To the presentation, I want you to bring in facts. To the presentation, yes, OK, so what I'm supposed to
+
+SPEAKER 8
+do is looking at academic papers and saying how they've explained the driver's are, and I'm just, am I just sort of explaining, Um, what they said in the paper, like what we did for the, that's what you have
+
+SPEAKER 0
+to decide, because this is your judgement on how you want to communicate to a lay audience on, The context of this conflict. Why, why did this conflict happen like. So you're, you're just giving a talk, right, so you decide what to include in your presentation or not. Don't bring what I'm saying is don't bring in value judgments. Don't bring in sentiments. Bring in facts. Bring in stuff that has been recorded in the literature and talk objectively about the conflicts. And anyway, the context of the conflict, that the time dedicated for that has to be, you know, if it's, if the total video is 5 minutes and you have so much other things to talk about, you can't dwell, dwell too much on this, so you have to choose what to talk because that's, that's part of the learning in this.
+
+SPEAKER 8
+OK Like I think the consequences part is easy because like that's really objective because like consequences should be like
+
+SPEAKER 0
+numbers. Don't go down controversies just for causes just uh I you can figure this out. You can figure out what I'm saying. Raja Ukraine is a controversial. Conflict. So read and figure out what's the most objective way to talk to or talk about this because you're not Putin's spokesperson or you're not, um, uh, Zelensky's spokesperson. You're not talking on behalf of Russia or Ukraine.
+
+SPEAKER 4
+You're an objective analyst, right? So the more you read, the more understanding you get
+
+SPEAKER 0
+about how to present these objectives.
+
+SPEAKER 8
+And another thing when I was doing like research, I found certain, I wouldn't say paper but like certain institutions or whatever the the writer, they are presenting their views in a, I wouldn't say biassed but the way they're writing it, it's sort of, I can see which side they're on, yeah, and I'm just wondering then I question that whether if that's the case, if the causes that they are identifying, would it be objective.
+
+SPEAKER 0
+That's why you have to cite proper academic work. Academic work is based on data.
+
+SPEAKER 8
+Oh, OK, so you want us to purely rely on
+
+SPEAKER 0
+academic work.
+
+SPEAKER 8
+So you want us to rely on like Journal articles rather than like newspapers, etc. Yes, yes, OK, because I was thinking like you can
+
+SPEAKER 0
+use them for your slides and like you know. Like there's a limit to which you can use biassed pieces. You can't just use opinion pieces and say this is the this is the one reason why this conflict happened, right? I think you, you need to reconcile yourself with the fact that this is an objective presentation that you need to do based on your learning, and you need to disentangle sentiments from, uh, objective facts.
+
+SPEAKER 8
+OK, so I guess the main key takeaway is try to be objective and linking that with the content that we learned. OK, it's hard.
+
+SPEAKER 4
+Nobody said it's easy.
+
+SPEAKER 0
+OK, good luck, you'll be fine.
+
+SPEAKER 3
+Mm mm you have a couple of weeks.
+
+SPEAKER 0
+Alright. Thanks, guys.
+
+SPEAKER 8
+Can I talk to you next time when I have a little bit more progress, because I'm like still a bit vague of how like of what I'm supposed to show you, like I think like I'm kind of being vague on what does the presentation needs to be look like, like I think you're overthinking oh I I it's, it's, I'm, I'm stuck with this idea of being objective, you know.
+
+SPEAKER 0
+Also, look at the lecture slides, that's subjective. We have to do something like that. But not going into equations, I think you are overcomplicating it. Yeah, don't.
+
+SPEAKER 8
+Initially I thought because I initially, you know how we went through like all these academic papers and initially how I said I saw the way you want us to talk about the driver and I was like, so I always wish you to come up with a formula.
+
+SPEAKER 4
+So, so that your Use uh the exercises guide. OK. Oh, OK Message and channel are not enough.
+
+SPEAKER 5
+The final question is how. The trust Final question, how to build the trust. The slide shows. Final question, uh, channel advantage are a little bit long. Uh, channel and the question. channel and question Channel and question channel and channel and question. A lot China and Uh The best way Final question, how to build the charts. The slide shows lot logic force we start with the starter. Of course we start with some concern. And then tell a message and send that a suitable channel. But most important But The most that in the visible, visible feedback, visible feedback response. It's still Who Historical concern who give feedback but not What happens next, but look. But never see what happens. Still feels one way. conditions see kitchen See Uh, it's The Gender. And just a concern and Recover. Co um use The relationship will be. Sure, it is. strong So our stage is more from the Sure Relationship of beauty in a long time, there are, there is best way to build the trust. And social licence. This massive channels are feedback machines. This message to China Become the foundation of the So, this message uh channel and feedback. Becomes the Foundation for the implementation plan. That's the how we uh ask how we plan how we schedule, monitor and evaluate this. Activity Message Message, message on channel, message on channel. Uh, message, message, message, uh, message, uh, message and channel. would be enough. now. The 4th question, the 4th, the final question is how to use Zoom to build the chart, how to use Zoom to build the chart? How do we use them to build. Final question, how do we use them to build a chart? How do we use them to build trust? How to use them to build the shots. This is not, uh, this slides, uh, show us uh. the logic. Also we We find Waa is still concerned and said um Make the talent message. Instead of making kind of message. Until they couldn't have. And And Which has a minimal superify most important way. The most important way The most important way Make the, it may make the feedback response, visible feedback response. If the cooler Can see the concern. Um the I never see what happened. The community is still one week. But But the

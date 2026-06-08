@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Ollama RAG Workspace</title>
+    <!-- Fonts -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <!-- Sidebar Layout -->
+    <aside class="sidebar">
+        <div class="logo-section">
+            <div class="logo-icon">
+                <i data-lucide="cpu" style="color: white; width: 18px; height: 18px;"></i>
+            </div>
+            <h1 class="logo-text">Local RAG</h1>
+        </div>
+
+        <!-- Ollama Connection Status Panel -->
+        <div class="panel">
+            <div class="panel-title">
+                <span>Ollama Engine</span>
+                <div class="status-indicator">
+                    <span id="ollama-status-dot" class="dot offline"></span>
+                    <span id="ollama-status-text">Checking...</span>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="chat-model-select">Chat LLM Model</label>
+                <select id="chat-model-select">
+                    <option value="">No models found</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="embed-model-select">Embedding Model</label>
+                <select id="embed-model-select">
+                    <option value="nomic-embed-text">nomic-embed-text</option>
+                    <option value="all-minilm">all-minilm</option>
+                </select>
+            </div>
+            
+            <button id="open-pull-modal-btn" class="btn btn-secondary">
+                <i data-lucide="download" style="width: 14px; height: 14px;"></i> Pull New Model
+            </button>
+        </div>
+
+        <!-- Document Ingestion Panel -->
+        <div class="panel">
+            <div class="panel-title">
+                <span>Document Ingestion</span>
+            </div>
+            
+            <div id="dropzone" class="dropzone">
+                <input type="file" id="file-input" style="display: none;" multiple accept=".pdf,.docx,.doc,.xlsx,.xls,.csv,.txt,.md,.log,.png,.jpg,.jpeg,.webp,.mp4,.mp3,.wav,.m4a">
+                <i data-lucide="upload-cloud" class="dropzone-icon"></i>
+                <div class="dropzone-text">Drag files here or click to browse</div>
+            </div>
+            
+            <div id="file-list" class="scroll-list">
+                <!-- Injected via JavaScript -->
+            </div>
+        </div>
+
+        <!-- Chat Session Panel -->
+        <div class="sidebar-footer">
+            <div class="panel-title">
+                <span>Conversations</span>
+                <button id="new-chat-btn" class="action-btn" title="Start new session">
+                    <i data-lucide="plus-circle" style="width: 16px; height: 16px;"></i>
+                </button>
+            </div>
+            <div id="session-list" class="session-list">
+                <!-- Injected via JavaScript -->
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Chat Container -->
+    <main class="chat-container">
+        <!-- Chat Header -->
+        <header class="chat-header">
+            <div class="chat-header-info">
+                <h2 id="active-session-title">Chat Session</h2>
+                <p id="chat-sub-info">Select files on the left to activate RAG mode</p>
+            </div>
+            
+            <div class="chat-filters">
+                <span id="rag-indicator" class="status-indicator" style="display: none;">
+                    <span class="dot online"></span>
+                    <span style="color: var(--accent-cyan); font-weight: 600;">RAG Search Active</span>
+                </span>
+            </div>
+        </header>
+
+        <!-- Message logs -->
+        <section id="chat-messages" class="chat-messages">
+            <!-- Initial welcome screen -->
+            <div class="chat-welcome" id="chat-welcome">
+                <div class="welcome-icon">
+                    <i data-lucide="sparkles" style="width: 48px; height: 48px;"></i>
+                </div>
+                <h3 class="welcome-title">Local RAG Workspace</h3>
+                <p class="welcome-desc">
+                    Welcome to your privacy-first AI workspace. Upload documents, spreadsheets, images, or media files to the sidebar on the left.
+                    Select files to filter RAG context, select your local LLM, and begin typing your queries.
+                </p>
+            </div>
+        </section>
+
+        <!-- Chat Input Bar -->
+        <div class="chat-input-area">
+            <div class="input-container">
+                <textarea id="chat-input" placeholder="Ask questions about your uploaded documents..." rows="1" disabled></textarea>
+                <div class="input-actions">
+                    <button id="send-btn" class="send-btn" disabled>
+                        <i data-lucide="send" style="width: 16px; height: 16px;"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="input-meta">
+                <span id="typing-status"></span>
+                <span>Powered by Local Ollama engine. Your data never leaves this machine.</span>
+            </div>
+        </div>
+    </main>
+
+    <!-- Right Sidebar for citation source previews -->
+    <aside id="source-preview" class="source-preview-container">
+        <div class="source-preview-header">
+            <h3 style="font-family: var(--font-display); font-size: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+                <i data-lucide="file-text" style="color: var(--accent-primary); width: 16px; height: 16px;"></i> Source Reference
+            </h3>
+            <button id="close-preview-btn" class="action-btn">
+                <i data-lucide="x" style="width: 18px; height: 18px;"></i>
+            </button>
+        </div>
+        <div id="preview-meta" style="margin-bottom: 0.75rem; font-size: 0.8rem; color: var(--text-secondary);">
+            <!-- Source document name injected here -->
+        </div>
+        <div id="preview-content" class="source-preview-content">
+            <!-- Chunk text content injected here -->
+        </div>
+    </aside>
+
+    <!-- Pull Model Modal Dialog -->
+    <div id="pull-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Pull Model from Ollama Registry</h3>
+                <button id="close-pull-modal" class="close-modal">&times;</button>
+            </div>
+            <div class="form-group">
+                <label for="pull-model-input">Model Name (e.g. llama3.2, nomic-embed-text, llava)</label>
+                <input type="text" id="pull-model-input" placeholder="Enter model name...">
+            </div>
+            <button id="pull-model-btn" class="btn">Pull Model</button>
+            
+            <div id="pull-progress-section" style="display: none; margin-top: 1rem;">
+                <label>Pulling Progress</label>
+                <div id="pull-status-text" style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.25rem;">Initializing...</div>
+                <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.05); border-radius: 3px; overflow: hidden; margin-bottom: 0.5rem;">
+                    <div id="pull-progress-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, var(--accent-primary), var(--accent-cyan)); transition: width 0.3s;"></div>
+                </div>
+                <div id="pull-log" class="pull-progress-box"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Application Script -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

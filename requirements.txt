@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+requests
+numpy
+pypdf
+python-docx
+pandas
+openpyxl
+openai-whisper
+moviepy
