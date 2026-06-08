@@ -9,7 +9,7 @@ A fully local, private, and production-ready **Retrieval-Augmented Generation (R
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 *   **100% Local & Private**: All data processing, vectorization, and generation happen locally on your hardware.
 *   **Multimodal (Vision) RAG**: Chat about images (`.png`, `.jpg`, `.jpeg`, `.webp`) using vision models like `moondream` or `llava`. Images are compressed and resized on the fly to optimize local VRAM usage.
@@ -24,7 +24,7 @@ A fully local, private, and production-ready **Retrieval-Augmented Generation (R
 
 ---
 
-## 📐 System Architecture
+##  System Architecture
 
 The following diagram illustrates the document processing, vector search, and query generation pipelines:
 
@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Backend Framework**: [FastAPI](https://fastapi.tiangolo.com/) (Python 3.8+)
 *   **Dev Server / ASGI**: [Uvicorn](https://www.uvicorn.org/)
@@ -90,7 +90,7 @@ graph TD
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Prerequisites
 *   Python 3.8 or higher.
@@ -129,7 +129,7 @@ Open your browser and navigate to **`http://127.0.0.1:8000`** to access the dash
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── database.py             # SQLite schema design, connection, & similarity search logic
@@ -150,7 +150,7 @@ Open your browser and navigate to **`http://127.0.0.1:8000`** to access the dash
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 The project includes unit tests covering the text chunking mechanism, database persistence operations, and the NumPy cosine similarity logic.
 
@@ -161,7 +161,7 @@ python -m unittest test_rag.py
 
 ---
 
-## 💡 Recommended Models
+##  Recommended Models
 
 For the best experience, we suggest the following local models:
 
@@ -173,6 +173,6 @@ For the best experience, we suggest the following local models:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
